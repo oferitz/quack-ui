@@ -36,6 +36,7 @@
     "qwik": "qwik"
   },
   "devDependencies": {
+    "@biomejs/biome": "1.5.3",
     "@builder.io/qwik": "1.4.0",
     "@types/eslint": "^8.56.2",
     "@types/node": "^20.11.0",
